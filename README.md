@@ -7,7 +7,14 @@ Weblogic Vuln POC  EXP cve-2020-2551 cve-2020-2555 cve-2020-2883 ，。。。
 ## CVE-2020-2555
 更新cve-2020-2555 exp，python脚本。
 
+## CVE-2020-2883
+更新cve-2020-2883 exp，python脚本。
+
 ## 参考
+https://github.com/Y4er/CVE-2020-2883
+
+https://github.com/Y4er/CVE-2020-2555
+
 https://github.com/Y4er/CVE-2020-2551.git
 
 https://xz.aliyun.com/t/7498
